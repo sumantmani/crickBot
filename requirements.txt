@@ -9,6 +9,7 @@ passlib
 bcrypt
 gevent
 psycopg2
+psycopg2-binary
 ujson
 ipython
 pyyaml

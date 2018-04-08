@@ -1,11 +1,11 @@
+import logging
 
 from crickbetapi.config import config
-from .models.metadata.common import Base
+from crickbetapi.database.models.metadata.common import Base
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-import logging
 
 logger = logging.getLogger(__name__)
 

@@ -23,6 +23,7 @@ config = {
 
     'CREATE_KEY': '',
     'WEB_SIGN_SECRET_TOKEN': 'YHaNoq3MPEP3z',
+
     # tasks
     'BROKER_URL': 'redis://localhost:6379/0',
     'CACHE_URL': 'redis://localhost:6379/1',
@@ -33,7 +34,12 @@ config = {
 
     'API_TOKEN_MAX_AGE': 6 * 60 * 60,
     
-    'BOT_TOKEN': '',
+    'BOT_TOKEN': '580210862:AAElOVVYaOCdpNu44ZHAIPeHGHemePuywPI',
+    
+    'GROUP_CHAT_ID': 0,
+    'MASTER_CHAT_ID': 557058075,
+    
+    'TEST_CHAT_ID': -272845684,
 
     'VERSION': '0.0.1'
 }
@@ -43,15 +49,4 @@ config_locations = [
     './env.json',
 ]
 
-teams = [
-    'DD',
-    'KXIP',
-    'KKR',
-    'RCB',
-    'SRH',
-    'CSK',
-    'RR',
-    'MI',
 
-
-]
