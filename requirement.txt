@@ -1,0 +1,17 @@
+falcon
+gunicorn
+SQLAlchemy
+itsdangerous
+celery
+redis
+requests
+passlib
+bcrypt
+gevent
+psycopg2
+ujson
+ipython
+pyyaml
+marshmallow
+python-telegram-bot
+
