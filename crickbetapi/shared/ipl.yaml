@@ -1,0 +1,80 @@
+matches:
+    1:
+        team_a: MI 
+        team_b: CSK
+        details: 
+        stadium: 
+        date: 
+        time: 
+    2:
+        team_a:  DD
+        team_b: KXIP
+        details: 
+        stadium: 
+        date: 
+        time: 
+    3:
+        team_a: SRH
+        team_b: RR
+        details: 
+        stadium: 
+        date: 
+        time: 
+    4:
+        team_a:  CSK
+        team_b: KKR
+        details: 
+        stadium: 
+        date: 
+        time: 
+    5:
+        team_a: RR
+        team_b: DD
+        details: 
+        stadium: 
+        date: 
+        time: 
+    6:
+        team_a: SRH
+        team_b: MI
+        details: 
+        stadium: 
+        date: 
+        time: 
+    7:
+        team_a: RCB
+        team_b: KXIP
+        details: 
+        stadium: 
+        date: 
+        time: 
+    8:
+        team_a: MI
+        team_b: DD
+        details: 
+        stadium: 
+        date: 
+        time: 
+    9:
+        team_a: RCB
+        team_b: RR
+        details: 
+        stadium: 
+        date: 
+        time:
+    10:
+        team_a: KKR
+        team_b: DD
+        details: 
+        stadium: 
+        date: 
+        time:
+    11:
+        team_a: MI
+        team_b: RCB
+        details: 
+        stadium: 
+        date: 
+        time: 
+
+        
